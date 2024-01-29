@@ -12,3 +12,6 @@ The application provides the following features:
 
 ## Screenshot
 ![train station](<Screenshot 2024-01-30 004326.png>)
+
+## Demo
+If you want to see the Live Demo, [Click here!](https://tracyk10.github.io/passenger-counter/)
