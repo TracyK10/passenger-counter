@@ -10,5 +10,5 @@ The application provides the following features:
 
 - **Save Counter:** Clicking the "SAVE" button saves the current count along with a dash ("-") to a list of previous entries. After saving, the count is reset to zero.
 
-##Screenshot
+## Screenshot
 ![train station](<Screenshot 2024-01-30 004326.png>)
